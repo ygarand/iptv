@@ -2,6 +2,7 @@
 #EXTINF:-1 channel-id="SRC" channel-number="2.1" tvg-name="SRC",SRC
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 channel-id="TVA" channel-number="10.1" tvg-name="TVA",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 channel-id="SRC" channel-number="1101" tvg-name="SRC",SRC
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 channel-id="TVA" channel-number="1103" tvg-name="TVA",TVA
