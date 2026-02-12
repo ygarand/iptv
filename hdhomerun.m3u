@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2.1" tvg-chno="2.1" tvg-name="CBFT-DT" group-title="Favorites" tvg-type="live",CBFT-DT
+http://192.168.100.19:5004/auto/v2.1
+#EXTINF:-1 tvg-id="10.1" tvg-chno="10.1" tvg-name="CFTM-DT" group-title="Favorites" tvg-type="live",CFTM-DT
+http://192.168.100.19:5004/auto/v10.1
+#EXTINF:-1 tvg-id="17.1" tvg-chno="17.1" tvg-name="CIVM" group-title="Favorites" tvg-type="live",CIVM
+http://192.168.100.19:5004/auto/v17.1
+#EXTINF:-1 tvg-id="35.1" tvg-chno="35.1" tvg-name="CFJP-DT" group-title="Favorites" tvg-type="live",CFJP-DT
+http://192.168.100.19:5004/auto/v35.1
+#EXTINF:-1 tvg-id="44.1" tvg-chno="44.1" tvg-name="WFFF-DT" group-title="Favorites" tvg-type="live",WFFF-DT
+http://192.168.100.19:5004/auto/v44.1
